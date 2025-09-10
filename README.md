@@ -1,2 +1,2 @@
 # python-automation-tools
-Collection of beginner automation and cybersecurity projects.
+This respitory contains simple automation and cybersecurity-related projects.
